@@ -1,0 +1,36 @@
+body{
+    background-color: floralwhite;
+    /* text-align: center;
+    width: 90%;
+    height: 100%; */
+}
+.heading-name{
+    text-align: center;
+}
+.center{
+    margin:auto;
+    width: 50%;
+    border-color: aqua;
+}
+.image-info{
+    text-align:center;
+}
+.info-box{
+    border: 1px solid transparent;
+    padding: 10px;
+    box-shadow: 5px 5px 10px wheat;
+    background-color: aliceblue;
+}
+.info-box h1{
+    text-align: center;
+    color: hotpink;
+}
+.footer{
+    text-align: center;
+}
+.footer p{
+    margin-bottom: 0;
+}
+.footer span{
+    font-size: 13px;
+}
